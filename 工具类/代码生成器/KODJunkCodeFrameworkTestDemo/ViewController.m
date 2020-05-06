@@ -19,7 +19,7 @@
   [super viewDidLoad];
   
   //TODO:改成自己电脑的路径
-  [[KODJunkCodeCreater defaultService] createJunkCodeWithFileNum:100 writeToDirectory:@"/Users/gaofei/Desktop/JunkCode"];
+  [[KODJunkCodeCreater defaultService] createJunkCodeWithFileNum:50 writeToDirectory:@"/Users/yutianduan/Desktop/JunkCode"];
   
 }
 
